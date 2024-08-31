@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AnwarSh18
-- 👀 I’m interested in programming languages.
+- 👋 Hi, I’m @AnwarSh18.
+- 👀 I’m interested in programming languages and system administrator for IBM iSeries.
 - 🌱 I’m currently learning RPGLE language for IBM iSeries Systems. 
 - 💞️ I’m looking to collaborate on RPGLE Language.
 - 📫 How to reach me with thise email anwar.sh69@gmail.com
